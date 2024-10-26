@@ -34,8 +34,8 @@ With a strong foundation in **front-end development** and hands-on experience in
 ---
 
 ### 📈 My GitHub Stats  
-![Lohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Lohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohith2005&show_icons=true&hide_border=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2005&layout=compact&theme=radical)  
 
 ---
 
