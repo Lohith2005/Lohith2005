@@ -12,24 +12,24 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 🌟 About Me  
-I'm a **third-year Computer Science and Engineering student** at **Mohan Babu University** with a keen interest in **Cloud Computing**, **AWS**, and **Linux OS**. I enjoy creating **intuitive and engaging web interfaces** and exploring the endless possibilities of cloud technologies.  
+I'm a **Final-year Computer Science and Engineering student** at **Mohan Babu University**, currently focused on mastering **Data Structures and Algorithms in Java**. I'm also interested in **Cloud Computing**, especially **AWS**,  I'm also learning **Linux OS** to strengthen my systems knowledge. I enjoy building engaging web interfaces and continuously explore ways to solve problems through efficient, scalable code.
 
-With a strong foundation in **front-end development** and hands-on experience in **Python**, **C**, and **Java**, I'm always eager to embrace new technologies and tackle challenging projects.  
+
+With a strong foundation in **Java** and ongoing experience in solving **Data Structures and Algorithms (DSA)** problems, I'm always eager to embrace new challenges and grow as a problem solver.  
 
 ---
 
 ### 💡 What I Do  
+- 🔢 **DSA Problem Solver:** Practicing Data Structures and Algorithms in Java to strengthen logic and prepare for coding interviews.
 - 💻 **Cloud Computing Enthusiast:** Diving deep into **AWS services** and exploring the world of scalable cloud architectures.  
 - 🌐 **Front-End Developer:** Crafting responsive and user-friendly interfaces using **HTML**, **CSS**, **JavaScript**, and frameworks like **Bootstrap**.  
-- 📊 **Data Explorer:** Experimenting with **Python** and **Machine Learning** algorithms to analyze and derive insights from data.  
-
 ---
 
 ### 🛠️ Tech Stack  
-- **Languages:** Python, C, Java, JavaScript  
+- **Technical Skills:**  Data Structures and Algorithms (DSA), Java, Python, SQL
 - **Web Development:** HTML5, CSS3, Bootstrap, JavaScript  
-- **Cloud Platforms:** AWS (S3, EC2, RDS, Lambda, etc.)  
-- **Other Tools:** Git, GitHub, Linux, VS Code  
+- **Cloud Platforms:** AWS (S3, EC2, RDS, Lambda, etc.) 
+- **Other Tools:** Git, GitHub, Linux(beginner), VS Code  
 
 ---
 
