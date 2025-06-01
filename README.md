@@ -41,12 +41,12 @@ With a strong foundation in **Java** and ongoing experience in solving **Data St
 
 ### 📌 Featured Projects  
 Check out some of the projects I'm most proud of:  
-- [**Weather Dashboard**](#) 🌦️ *(Link to your project)*  
-  *A fully responsive web app to fetch and display real-time weather data.*  
-- [**Generative AI Crossword Puzzle**](#) 🤖 *(Link to your project)*  
-  *An innovative crossword game powered by generative AI techniques.*  
-- [**Bootstrap Responsive Layouts**](#) 🖥️ *(Link to your project)*  
-  *A showcase of modern and responsive web designs using Bootstrap.*  
+- [** AI Code Analyzer**](https://aianalyzer.vercel.app/) 🤖
+  *Built an AI Code Analyzer that runs in the browser, supports multiple languages, and provides real-time code reviews with time/space complexity insights — Using Gemini API*  
+- [**Developed and Deployed Portfolio Website Using AWS**](https://drcha7o0r38q8.cloudfront.net/)🖥️ 
+  *Created a personal portfolio website showcasing my projects and skills, then deployed it on AWS using services like S3 and CloudFront for fast and reliable access. This project helped me gain practical experience with cloud deployment and website hosting.*  
+- [**Job Application Tracker**](https://job-application-tracker-bk1u.onrender.com/) 🖥️ 
+  *Built a web app to help users organize and track their job applications in one place. Features include adding new applications, updating status (like applied, interviewed, offered), and setting reminders. This project improved my skills in CRUD operations, UI design, and managing user data efficiently.*  
 
 ---
 
@@ -57,9 +57,9 @@ Check out some of the projects I'm most proud of:
 ---
 
 ### 📚 What I’m Learning  
-- Diving deeper into **AWS solutions** and best practices for **cloud architecture**.  
-- Expanding my knowledge of **Machine Learning** with practical projects.  
-- Enhancing my **front-end skills** with **Bootstrap**.  
+- Mastering **Data Structures and Algorithms (DSA)** in **Java** for problem-solving.
+- Diving deeper into **AWS solutions** and best practices for cloud architecture.
+- Learning the basics of **Linux OS** to strengthen my system skills. 
 
 ---
 
