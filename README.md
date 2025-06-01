@@ -52,7 +52,7 @@ Check out some of the projects I'm most proud of:
 
 ### 🤝 Connect with Me  
 - **LinkedIn:** https://https://www.linkedin.com/in/lohithvellure/  
-- **Email:** *vellurelohith4@gmail.com*  
+- **Email:** *vellurelohith1@gmail.com*  
 
 ---
 
