@@ -33,12 +33,6 @@ With a strong foundation in **Java** and ongoing experience in solving **Data St
 
 ---
 
-### 📈 My GitHub Stats  
-![Lohith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohith2005&show_icons=true&hide_border=true&theme=radical)  
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2005&layout=compact&theme=radical)-->
-
----
-
 ### 📌 Featured Projects  
 Check out some of the projects I'm most proud of:  
 - [**AI Code Analyzer**](https://aianalyzer.vercel.app/) 🤖
