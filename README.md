@@ -36,7 +36,10 @@ With a strong foundation in **Java** and ongoing experience in solving **Data St
 ### 📌 Featured Projects  
 Check out some of the projects I'm most proud of:  
 - [**AI Code Analyzer**](https://aianalyzer.vercel.app/) 🤖
-  *Built an AI Code Analyzer that runs in the browser, supports multiple languages, and provides real-time code reviews with time/space complexity insights — Using Gemini API*  
+  *Built an AI Code Analyzer that runs in the browser, supports multiple languages, and provides real-time code reviews with time/space complexity insights — Using Gemini API*
+- [**Automated Bill Processing System (AWS)**](https://github.com/Lohith2005/Serverless-Bill-Processor-AmazonWebService)📄
+   *The Automated Bill Processing System is a fully serverless, event-driven solution built on AWS.
+It automates the process of extracting information from uploaded bill images, storing the structured data, and sending confirmation emails — all without the need for a traditional backend or frontend application.*
 - [**Developed and Deployed Portfolio Website Using AWS**](https://d6afcq3t97boa.cloudfront.net/)🖥️ 
   *Created a personal portfolio website showcasing my projects and skills, then deployed it on AWS using services like S3 and CloudFront for fast and reliable access. This project helped me gain practical experience with cloud deployment and website hosting.*  
 - [**Job Application Tracker**](https://job-application-tracker-bk1u.onrender.com/) 🖥️ 
