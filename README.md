@@ -1,64 +1,138 @@
+# Hey, I'm Lohith! 👋
 
-<!---
-Lohith2005/Lohith2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your  changes.
---->
+### Software Developer | Cloud & AI Enthusiast | Building Scalable Solutions 🚀
 
+I'm a **Computer Science graduate and software developer** passionate about building scalable applications, cloud-native solutions, and AI-powered experiences.
 
-# Hello, I'm Lohith! 👋  
+I enjoy working across the stack — from designing intuitive web interfaces to developing backend services, integrating APIs, and deploying applications on the cloud.
 
-**A Passionate Developer and Perpetual Learner.**  
-
----
-
-### 🌟 About Me  
-I'm a **Final-year Computer Science and Engineering student** at **Mohan Babu University**, currently focused on mastering **Data Structures and Algorithms in Java**. I'm also interested in **Cloud Computing**, especially **AWS**,  I'm also learning **Linux OS** to strengthen my systems knowledge. I enjoy building engaging web interfaces and continuously explore ways to solve problems through efficient, scalable code.
-
-
-With a strong foundation in **Java** and ongoing experience in solving **Data Structures and Algorithms (DSA)** problems, I'm always eager to embrace new challenges and grow as a problem solver.  
+Currently, I'm focused on strengthening my skills in **software engineering, cloud computing, AI, system design, and scalable application development.**
 
 ---
 
-### 💡 What I Do  
-- 🔢 **DSA Problem Solver:** Practicing Data Structures and Algorithms in Java to strengthen logic and prepare for coding interviews.
-- 💻 **Cloud Computing Enthusiast:** Diving deep into **AWS services** and exploring the world of scalable cloud architectures.  
-- 🌐 **Front-End Developer:** Crafting responsive and user-friendly interfaces using **HTML**, **CSS**, **JavaScript**, and frameworks like **Bootstrap**.  
----
+## 🚀 About Me
 
-### 🛠️ Tech Stack  
-- **Technical Skills:**  Data Structures and Algorithms (DSA), Java, Python, SQL
-- **Web Development:** HTML5, CSS3, Bootstrap, JavaScript  
-- **Cloud Platforms:** AWS (S3, EC2, RDS, Lambda, etc.) 
-- **Other Tools:** Git, GitHub, Linux(beginner), VS Code  
+* 💻 Software Developer passionate about building real-world applications
+* ☁️ Exploring **cloud-native development and AWS**
+* 🤖 Interested in **Generative AI, AI agents, and AI-powered applications**
+* ⚙️ Working with **Java, JavaScript, Python, SQL, and modern web technologies**
+* 🧠 Strengthening **Data Structures & Algorithms, Object-Oriented Design, and System Design**
+* 🐧 Exploring **Linux and cloud infrastructure**
+* 🔨 I enjoy turning ideas into working products
 
 ---
 
-### 📌 Featured Projects  
-Check out some of the projects I'm most proud of:  
-- [**AI Code Analyzer**](https://aicodeanalyzer.onrender.com/) 🤖
-  *Built an AI Code Analyzer that runs in the browser, supports multiple languages, and provides real-time code reviews with time/space complexity insights — Using Gemini API*
-- [**Automated Bill Processing System (AWS)**](https://github.com/Lohith2005/Serverless-Bill-Processor-AmazonWebService)📄
-   *The Automated Bill Processing System is a fully serverless, event-driven solution built on AWS.
-It automates the process of extracting information from uploaded bill images, storing the structured data, and sending confirmation emails — all without the need for a traditional backend or frontend application.*
-- [**Developed and Deployed Portfolio Website Using AWS**](https://d6afcq3t97boa.cloudfront.net/)🖥️ 
-  *Created a personal portfolio website showcasing my projects and skills, then deployed it on AWS using services like S3 and CloudFront for fast and reliable access. This project helped me gain practical experience with cloud deployment and website hosting.*  
-- [**Job Application Tracker**](https://job-application-tracker-bk1u.onrender.com/) 🖥️ 
-  *Built a web app to help users organize and track their job applications in one place. Features include adding new applications, updating status (like applied, interviewed, offered), and setting reminders. This project improved my skills in CRUD operations, UI design, and managing user data efficiently.*  
+## 🛠️ Tech Stack
+
+### Languages
+
+`Java` `Python` `JavaScript` `SQL`
+
+### Frontend
+
+`HTML5` `CSS3` `JavaScript` `React`
+
+### Backend & APIs
+
+`Node.js` `REST APIs`
+
+### Cloud & DevOps
+
+`AWS` `S3` `EC2` `RDS` `Lambda` `CloudFront` `Git` `GitHub` `Linux`
+
+### Enterprise & AI
+
+`SAP BTP` `SAP Build Apps` `SAP Build Process Automation` `SAP Joule` `Generative AI`
+
+### Core Computer Science
+
+`Data Structures & Algorithms` `OOP` `System Design` `DBMS` `Computer Networks`
 
 ---
 
-### 🤝 Connect with Me  
-- **LinkedIn:** https://https://www.linkedin.com/in/lohithvellure/  
-- **Email:** *vellurelohith1@gmail.com*  
+## 🌟 Featured Projects
+
+### 🤖 AI Code Analyzer
+
+**AI-powered code analysis and review platform**
+
+🔗 https://aicodeanalyzer.onrender.com/
+
+* Supports multiple programming languages
+* Provides AI-powered code reviews
+* Generates time and space complexity insights
+* Built with the **Gemini API**
+* Designed to provide developers with instant feedback on their code
 
 ---
 
-### 📚 What I’m Learning  
-- Mastering **Data Structures and Algorithms (DSA)** in **Java** for problem-solving.
-- Diving deeper into **AWS solutions** and best practices for cloud architecture.
-- Learning the basics of **Linux OS** to strengthen my system skills. 
+### ☁️ Automated Bill Processing System
+
+**Serverless, event-driven bill processing pipeline built on AWS**
+
+🔗 https://github.com/Lohith2005/Serverless-Bill-Processor-AmazonWebService
+
+* Built using a fully serverless AWS architecture
+* Processes uploaded bill images automatically
+* Extracts and stores structured information
+* Sends confirmation notifications
+* Uses AWS services to create an event-driven processing workflow
 
 ---
 
-### ⚡ Fun Fact  
-When I'm not coding, you'll find me exploring **cloud services** or working on creative web design projects. 🚀  
+### 🌐 Cloud-Deployed Portfolio
+
+**Personal portfolio deployed using AWS**
+
+🔗 https://d6afcq3t97boa.cloudfront.net/
+
+* Built a responsive personal portfolio
+* Hosted using **Amazon S3**
+* Distributed through **Amazon CloudFront**
+* Gained hands-on experience with cloud hosting and content delivery
+
+---
+
+### 📋 Job Application Tracker
+
+**Web application for managing and tracking job applications**
+
+🔗 https://job-application-tracker-bk1u.onrender.com/
+
+* Track applications throughout the recruitment process
+* Manage statuses such as Applied, Interviewed, and Offered
+* Add and update application information
+* Built to simplify job-search organization and tracking
+
+---
+
+## 📚 Currently Learning
+
+* 🧠 Advanced **Data Structures & Algorithms**
+* ☁️ **AWS & Cloud Architecture**
+* 🤖 **Generative AI & AI-powered applications**
+* 🏗️ **System Design & Scalable Architecture**
+* 🐧 **Linux & Cloud Infrastructure**
+* 💻 **Modern Full-Stack Development**
+
+---
+
+## 🎯 2026 Focus
+
+> **Build better software. Understand systems deeply. Use AI as a force multiplier.**
+
+I'm continuously working on improving my engineering fundamentals while exploring how **AI, cloud computing, and modern software architecture** are changing the way applications are built.
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 **LinkedIn:** https://www.linkedin.com/in/lohithvellure/
+* 📧 **Email:** [vellurelohith1@gmail.com](mailto:vellurelohith1@gmail.com)
+* 💻 **GitHub:** https://github.com/Lohith2005
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning random ideas into working projects — and then finding a way to deploy them on the cloud. 🚀
